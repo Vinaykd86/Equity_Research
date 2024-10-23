@@ -29,10 +29,10 @@ Conclusion:
    
 •	The analysis indicates that the stock of Happiest Minds is currently undervalued. The DCF valuation suggests a fair value per share of ₹821 compared to the current market price of ₹765.
 
-4.	Investment Recommendation - BUY:
+2.	Investment Recommendation - BUY:
     
 •	Given the undervaluation of the stock, the recommendation is to buy the shares. This is based on the expectation that the market will recognize the stock’s intrinsic value over time, offering potential capital gains.
 
-7.	Target Price Determination:
+3.	Target Price Determination:
 	
 •	The blended valuation approach, combining the DCF value of ₹821 and a relative valuation price of ₹804, results in a target price of approximately ₹812. This target price represents a potential upside of 6.1% from the current market price.
